@@ -1,0 +1,15 @@
+{
+  "name": "config-collapse",
+  "version": "1.0.0",
+  "description": "a simple module that produces configuration that can be changed until it's first read, then it's remains constant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "E314C",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/E314c/collapse-config.git"
+  }
+}
